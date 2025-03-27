@@ -23,7 +23,7 @@ Para além da engenharia informática, também tenho interesse em edição de v�
 
 ### 🐍 Contribution Snake
 
-![Snake animation (light mode)](https://github.com/DiogoMMP/DiogoMMP/blob/output/github-snake.svg#gh-light-mode-only)
-![Snake animation (dark mode)](https://github.com/DiogoMMP/DiogoMMP/blob/output/github-snake-dark.svg#gh-dark-mode-only)
-![Snake animation (GIF)](https://github.com/DiogoMMP/DiogoMMP/blob/output/ocean.gif)
+![Snake animation (light mode)](https://github.com/DiogoMMP/DiogoMMP/blob/main/github-snake.svg#gh-light-mode-only)
+![Snake animation (dark mode)](https://github.com/DiogoMMP/DiogoMMP/blob/main/github-snake-dark.svg#gh-dark-mode-only)
+![Snake animation (GIF)](https://github.com/DiogoMMP/DiogoMMP/blob/main/ocean.gif)
 
