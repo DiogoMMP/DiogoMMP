@@ -2,7 +2,7 @@ name: Generate snake game
 
 on:
   schedule:
-    - cron: "0 */12 * * *" # Executa a cada 12 horas
+    - cron: "0 */5 * * *" # Executa a cada 5 horas
   workflow_dispatch: # Permite execução manual
 
 jobs:
@@ -14,12 +14,11 @@ jobs:
         uses: actions/checkout@v3
 
       - name: Generate Snake Animation
-        uses: Platane/snk@master
+        uses: Platane/snk@v2
         id: snake-gif
         with:
           github_user_name: ${{ github.repository_owner }}
           svg_out_path: dist/github-contribution-grid-snake.svg
-          snake_color: 'blue'
 
       - name: Deploy to GitHub Pages
         uses: crazy-max/ghaction-github-pages@v2.1.3
