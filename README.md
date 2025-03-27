@@ -6,11 +6,20 @@ Sou estudante de Engenharia Informática no Instituto Superior de Engenharia do 
 
 Todos os semestres na minha universidade temos um projeto que integra todas as disciplinas, permitindo-nos melhorar o trabalho em equipa e aplicar a metodologia SCRUM, bem como os conhecimentos adquiridos no semestre em curso.
 
-## 💻 Tecnologias e Ferramentas
+## 💻 My Stack
 
-- **Linguagens**: Java, PL/SQL, C
-- **Ferramentas**: IntelliJ IDEA, VS Code
-- **Metodologias**: TDD, SCRUM, boas práticas de desenvolvimento de software
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="25" alt="PL/SQL logo"  />
+  <img width="8" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="SCRUM logo"  />
+  <img width="8" />
+</div>
+
+
 
 ## 🌐 Outras áreas de interesse
 
