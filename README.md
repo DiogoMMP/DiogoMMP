@@ -21,5 +21,5 @@ Para além da engenharia informática, também tenho interesse em edição de v�
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-pereira-620a48176/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo._.pereira_/) 
 
 
-![snake gif](https://github.com/DiogoMMP/DiogoMMP/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/DiogoMMP/DiogoMMP/blob/output/github-contribution-grid-snake.svg)
 
