@@ -47,4 +47,4 @@ Besides computer engineering, I also have an interest in video editing and photo
 
 
 
-![snake animation](https://github.com/<DiogoMMP>/<DiogoMMP>/blob/output/github-contribution-grid-snake2.svg)
+![Snake animation](https://github.com/DiogoMMP/DiogoMMP/blob/output/github-contribution-grid-snake.svg)
