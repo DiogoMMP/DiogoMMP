@@ -1,34 +1,47 @@
-# Olá, eu sou o Diogo!
+# Hi, I'm Diogo!
 
-Sou estudante de Engenharia Informática no Instituto Superior de Engenharia do Porto (ISEP) e atualmente estou no segundo ano da licenciatura. Tenho um grande interesse em desenvolvimento de software e estou sempre à procura de aprender mais sobre novas tecnologias e boas práticas de programação.
+## 👨🏻‍💻 About Me
 
-## 📚 O que estou a aprender
-
-Todos os semestres na minha universidade temos um projeto que integra todas as disciplinas, permitindo-nos melhorar o trabalho em equipa e aplicar a metodologia SCRUM, bem como os conhecimentos adquiridos no semestre em curso.
-
-## 💻 My Stack
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="25" alt="java logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="25" alt="C logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqldeveloper/sqldeveloper-original.svg" height="25" alt="PL/SQL logo"  />
-  <img width="8" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="25" alt="SCRUM logo"  />
-  <img width="8" />
-</div>
+- 🤔 Exploring technologies that interest me and developing personal projects.  
+- 🎓 In the second year of my degree in Computer Engineering at ISEP - Instituto Superior de Engenharia do Porto.   
+- 📸 Social Media Manager, Videographer and Web Developer at &nbsp; <a href="https://www.instagram.com/hugosilvaphotography/" target="_blank">
+    <img src="https://img.shields.io/badge/-hugosilvaphotography-333333?style=flat&logo=instagram&logoColor=white">
+</a>
 
 
+## 💻 Tech Stack
 
-## 🌐 Outras áreas de interesse
+- 💻 &nbsp;
+  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
+  ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
+  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
 
-Para além da engenharia informática, também tenho interesse em edição de vídeo e fotografia, sendo parte da equipa Hugo Silva Photography.
+- 🛢 &nbsp;
+  ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=oracle)
+  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
+  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  
+- 🔧 &nbsp;
+  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
+  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
+  
+- 📷 &nbsp;
+  ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-333333?style=flat&logo=davinci-resolve)
+  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
+  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
 
-## 👨‍💻 Contacta-me
+
+## 👨‍💻 Get in Touch
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/diogo-pereira275) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/diogo._.pereira_/) 
 
+
+## 🔥 Contribution Activity
 
 <picture align="center">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DiogoMMP/DiogoMMP/output/github-contribution-grid-snake-dark.svg">
@@ -36,3 +49,7 @@ Para além da engenharia informática, também tenho interesse em edição de v�
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiogoMMP/DiogoMMP/output/github-contribution-grid-snake.svg">
 </picture>
 
+
+## ✨ Visitors
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=DiogoMMP" alt="DiogoMMP" /> </p>
