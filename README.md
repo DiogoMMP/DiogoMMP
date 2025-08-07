@@ -16,6 +16,7 @@
   ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
   ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
   ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
 
 - 🛢 &nbsp;
   ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=oracle)
@@ -34,6 +35,10 @@
   ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-333333?style=flat&logo=davinci-resolve)
   ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
   ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+
+### 🏅 Badges
+
+[![Python Essentials 1](/python-essentials-1.1.png)](https://www.credly.com/badges/b7032a6a-3ba2-4962-9fc3-3198b9dba455/public_url)
 
 
 ## 👨‍💻 Get in Touch
