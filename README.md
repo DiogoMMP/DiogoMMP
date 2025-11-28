@@ -3,38 +3,115 @@
 ## 👨🏻‍💻 About Me
 
 - 🤔 Exploring technologies that interest me and developing personal projects.  
-- 🎓 In the second year of my degree in Computer Engineering at ISEP - Instituto Superior de Engenharia do Porto.   
-- 📸 Social Media Manager, Videographer and Web Developer at &nbsp; <a href="https://www.instagram.com/hugosilvaphotography/" target="_blank">
+- 🎓 In the third year of my degree in Computer Engineering at ISEP - Instituto Superior de Engenharia do Porto.   
+- 📸 Social Media Manager and Web Developer at &nbsp; <a href="https://www.instagram.com/hugosilvaphotography/" target="_blank">
     <img src="https://img.shields.io/badge/-hugosilvaphotography-333333?style=flat&logo=instagram&logoColor=white">
 </a>
 
 
 ## 💻 Tech Stack
 
-- 💻 &nbsp;
-  ![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=java)
-  ![C](https://img.shields.io/badge/C-333333?style=flat&logo=C)
-  ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-  ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3)
-  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=Python)
+- 💻 Programming Languages:
+  
+  <p align="left">
+    <a href="https://www.java.com" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
+    </a>
+    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
+    </a>
+    <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
+    </a>
+    <a href="https://www.python.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="30" height="30"/>
+    </a>
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="30" height="30"/>
+    </a>
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
+    </a>
+    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
+    </a>
+    <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
+    </a>
+  </p>
 
-- 🛢 &nbsp;
-  ![PL/SQL](https://img.shields.io/badge/-PL/SQL-333333?style=flat&logo=oracle)
+- 🛢 Databases:
   
-- ⚙️ &nbsp;
-  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-  ![BitBucket](https://img.shields.io/badge/-BitBucket-333333?style=flat&logo=bitbucket)
-  ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logo=markdown)
+  <p align="left">
+    <a href="https://www.h2database.com/" target="_blank" rel="noreferrer">
+      <img src="https://dbdb.io/media/logos/h2-logo.svg" alt="H2 Database" width="30" height="30"/>
+    </a>
+    <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
+    </a>
+  </p>
   
-- 🔧 &nbsp;
-  ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code)
-  ![IntelliJ Idea](https://img.shields.io/badge/-IntelliJ%20Idea-333333?style=flat&logo=intellijidea)
+- ⚙️ Frameworks, Methodologies and Tools: 
   
-- 📷 &nbsp;
-  ![DaVinci Resolve](https://img.shields.io/badge/-DaVinci%20Resolve-333333?style=flat&logo=davinci-resolve)
-  ![Canva](https://img.shields.io/badge/-Canva-333333?style=flat&logo=canva)
-  ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=Figma)
+  <p align="left">
+    <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" alt=".NET" width="30" height="30"/>
+    </a>
+    <a href="https://angular.io" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30"/>
+    </a>
+    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
+    </a>
+    <a href="https://threejs.org/" target="_blank" rel="noreferrer">
+      <img src="./Threejs-logo.svg" alt="Three.js" width="30" height="30"/>
+    </a>
+    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
+    </a>
+    <a href="https://www.scrum.org/resources" target="_blank" rel="noreferrer">
+      <img src="./scrum-seeklogo.svg" alt="Scrum" width="30" height="30"/>
+    </a>
+    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg" alt="Markdown" width="30" height="30"/>
+    </a>
+  </p>
+  
+- 🔧 IDEs:
+
+  <p align="left">
+    <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="VS Code" width="30" height="30"/>
+    </a>
+    <a href="https://www.jetbrains.com/idea/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" alt="IntelliJ IDEA" width="30" height="30"/>
+    </a>
+    <a href="https://www.jetbrains.com/pycharm/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pycharm/pycharm-original.svg" alt="PyCharm" width="30" height="30"/>
+    </a>
+    <a href="https://www.jetbrains.com/webstorm/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webstorm/webstorm-original.svg" alt="WebStorm" width="30" height="30"/>
+    </a>
+    <a href="https://www.jetbrains.com/rider/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/rider/rider-original.svg" alt="Rider" width="30" height="30"/>
+    </a>
+    <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="30" height="30"/>
+    </a>
+  </p>
+  
+- 📷 Design & Multimedia:
+  <p align="left">
+    <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
+      <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" width="30" height="30"/>
+    </a>
+    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="30" height="30"/>
+    </a>
+    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
+    </a>
+  </p>
 
 ### 🏅 Badges
 
@@ -53,8 +130,3 @@
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DiogoMMP/DiogoMMP/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DiogoMMP/DiogoMMP/output/github-contribution-grid-snake.svg">
 </picture>
-
-
-## ✨ Visitors
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=DiogoMMP" alt="DiogoMMP" /> </p>
