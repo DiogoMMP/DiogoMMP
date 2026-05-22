@@ -17,9 +17,6 @@
     <a href="https://www.java.com" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="30" height="30"/>
     </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="C" width="30" height="30"/>
-    </a>
     <a href="https://dotnet.microsoft.com/languages/csharp" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="30" height="30"/>
     </a>
@@ -32,9 +29,6 @@
     <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="30" height="30"/>
     </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="30" height="30"/>
-    </a>
     <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="30" height="30"/>
     </a>
@@ -43,15 +37,15 @@
 - 🛢 Databases:
   
   <p align="left">
-    <a href="https://www.h2database.com/" target="_blank" rel="noreferrer">
-      <img src="https://dbdb.io/media/logos/h2-logo.svg" alt="H2 Database" width="30" height="30"/>
-    </a>
     <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="30" height="30"/>
     </a>
+    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="30" height="30"/>
+    </a>
   </p>
   
-- ⚙️ Frameworks, Methodologies and Tools: 
+- ⚙️ Frameworks and Tools: 
   
   <p align="left">
     <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer">
@@ -60,20 +54,17 @@
     <a href="https://angular.io" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="Angular" width="30" height="30"/>
     </a>
+    <a href="https://react.dev/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="30" height="30"/>
+    </a>
+    <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="30" height="30"/>
+    </a>
     <a href="https://nodejs.org" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="30" height="30"/>
     </a>
-    <a href="https://threejs.org/" target="_blank" rel="noreferrer">
-      <img src="./Threejs-logo.svg" alt="Three.js" width="30" height="30"/>
-    </a>
     <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="Git" width="30" height="30"/>
-    </a>
-    <a href="https://www.scrum.org/resources" target="_blank" rel="noreferrer">
-      <img src="./scrum-seeklogo.svg" alt="Scrum" width="30" height="30"/>
-    </a>
-    <a href="https://www.markdownguide.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/Markdown-blue-solid.svg" alt="Markdown" width="30" height="30"/>
     </a>
   </p>
   
@@ -97,19 +88,6 @@
     </a>
     <a href="https://www.jetbrains.com/datagrip/" target="_blank" rel="noreferrer">
       <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/datagrip/datagrip-original.svg" alt="DataGrip" width="30" height="30"/>
-    </a>
-  </p>
-  
-- 📷 Design & Multimedia:
-  <p align="left">
-    <a href="https://www.blackmagicdesign.com/products/davinciresolve/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/9/90/DaVinci_Resolve_17_logo.svg" alt="DaVinci Resolve" width="30" height="30"/>
-    </a>
-    <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/canva/canva-original.svg" alt="Canva" width="30" height="30"/>
-    </a>
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="Figma" width="30" height="30"/>
     </a>
   </p>
 
