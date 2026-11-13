@@ -34,8 +34,8 @@ I'm a full-stack software engineer currently going all-in on **Artificial Intell
 ## 📈 Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DiogoMMP&show_icons=true&hide_border=true&bg_color=05070D&title_color=60A5FA&icon_color=3B82F6&text_color=8B9BB4" alt="Diogo's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DiogoMMP&layout=compact&langs_count=8&hide_border=true&bg_color=05070D&title_color=60A5FA&text_color=8B9BB4" alt="Top languages" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=DiogoMMP&theme=github_dark&hide_logo=true&bg_color=05070D&title_color=60A5FA&text_color=8B9BB4&icon_color=3B82F6&border_color=1E293B" alt="Diogo's GitHub stats" height="165">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=DiogoMMP&theme=github_dark&bg_color=05070D&title_color=60A5FA&text_color=8B9BB4&border_color=1E293B" alt="Top languages by repo" height="165">
 </p>
 
 <picture>
